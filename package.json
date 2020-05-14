@@ -1,7 +1,7 @@
 {
   "name": "intro-to-mongodb",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "test.js",
   "author": "Scott Moss <willscottmoss@gmail.com>",
   "license": "MIT",
   "scripts": {
