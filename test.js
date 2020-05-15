@@ -88,7 +88,7 @@ school.virtual('staffCount')
 })
 
 const School = mongoose.model('school',school)
-// const Student = mongoose.model('student',student) */
+const Student = mongoose.model('student',student) */
 
 connect()
     .then( async connection => {
